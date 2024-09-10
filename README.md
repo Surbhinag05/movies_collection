@@ -1,4 +1,4 @@
-Movie Web Application 🎬
+<pre>Movie Web Application 🎬
 A simple, responsive movie browsing web app built with HTML and CSS.
 
 Features
@@ -14,4 +14,4 @@ git clone https://github.com/yourusername/your-repo-name.git
 Open index.html in your browser to view the app.
 License
 This project is open source and available under the MIT License.
-
+</pre>
